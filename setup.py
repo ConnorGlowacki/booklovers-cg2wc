@@ -7,5 +7,6 @@ setup(
     author='Connor Glowacki',
     author_email='cg2wc@virginia.edu',
     description='Ya like books?',
-    packages=['booklovers']
+    packages=['booklovers'],
+    install_requires=['pandas']
 )
